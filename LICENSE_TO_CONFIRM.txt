@@ -1,0 +1,5 @@
+The code licence is not assigned in this folder.
+
+Add an OSI-approved licence on GitHub before public release, after institutional review.
+Recommended default for this analysis code: MIT License.
+Do not insert personal names into source files.
