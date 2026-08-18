@@ -6,7 +6,9 @@
 
 <img src="docs/figures/fig3ab_future_risk_states.jpg" alt="Future Aedes-borne climate-risk states under SSP1-2.6, SSP3-7.0 and SSP5-8.5" width="900">
 
-<p align="center"><b>Figure 3a–b.</b> Future reorganization of five thermal–flood climate-risk states, 2081–2100 relative to 1990–2019.</p>
+<p align="center"><b>Future reorganization of five thermal–flood climate-risk states, 2081–2100 relative to 1990–2019.</b></p>
+
+The maps show how the five climate-risk states are redistributed by the end of the century. The top row highlights where compound-suitable conditions expand or contract relative to 1990–2019. The bottom row shows the resulting global mosaic of cold-limited, heat-constrained, water-limited, flushing-limited and compound-suitable environments under SSP1-2.6, SSP3-7.0 and SSP5-8.5.
 
 ---
 
@@ -34,7 +36,9 @@ Processed 0.5-degree HFFM inputs and outputs. Zenodo. [https://doi.org/10.5281/z
   <img src="docs/figures/fig3c_compound_suitable_timeseries.gif" alt="Animated time series of the global compound-suitable share from 1990 to 2100" width="900">
 </p>
 
-<p align="center"><b>Figure 3c.</b> Annual anomaly in the global share of compound-suitable grid cells, 1990–2100, under SSP1-2.6, SSP3-7.0 and SSP5-8.5.</p>
+<p align="center"><b>Annual anomaly in the global share of compound-suitable grid cells, 1990–2100, under SSP1-2.6, SSP3-7.0 and SSP5-8.5.</b></p>
+
+The animation tracks year-by-year departures from the 2020 baseline. Low emissions produce a modest late-century increase in compound-suitable area, whereas higher emissions compress that share as heat constraints intensify. The historical and future segments are centred separately to mark the change from reanalysis to scenario climate data.
 
 ## What This Repository Provides
 
