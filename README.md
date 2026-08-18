@@ -66,9 +66,3 @@ Raw ERA5-Land, GloFAS, NEX-GDDP-CMIP6, ISIMIP and H08 archives are not stored he
 - Table 2: counterfactual columns in `decomp_data_SSP*.csv` / `decomp_pred_SSP*.csv`
 
 Thermal thresholds used in classification: TSI 77.8 and 236.1. Global FAI water threshold: 0.24. Uncalibrated regions use x_r = 0.407. File tags SSP1 / SSP3 / SSP5 correspond to SSP1-2.6 / SSP3-7.0 / SSP5-8.5.
-
-## Licence
-Code licence is not assigned in this folder. Add an OSI licence on GitHub before the repository is made public. Do not place author names in the code files.
-
-## Citation
-Cite the accompanying manuscript and, after publication, the Zenodo data record. See `CITATION.cff`.
